@@ -1,0 +1,1 @@
+Al crear la carpeta y hacer el "git add ." no reconoce el cambio realizado (Tampoco en git status se podía ver); sin embargo, al crear el archivo 'respuesta.txt' nos reconoce la carpeta y el archivo como cambios sin seguimiento, habilitando así la opción de continuar con el flujo de trabajo
