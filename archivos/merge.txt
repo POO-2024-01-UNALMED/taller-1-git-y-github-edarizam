@@ -1,0 +1,1 @@
+Se asume que este hecho se debe a que git no reconoce como cambio la creación de un directorio; sin embargo, al añadir un archivo, ambos cambios son registrados
