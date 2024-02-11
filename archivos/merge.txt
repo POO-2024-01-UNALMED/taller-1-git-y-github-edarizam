@@ -1,1 +1,5 @@
-Se asume que este hecho se debe a que git no reconoce como cambio la creación de un directorio; sin embargo, al añadir un archivo, ambos cambios son registrados
+Nombre: Edinson Andrés Ariza Mendoza
+Edad: 18
+Aspiraciones respecto a la materia: Mis anhelos constan principalmente de comprender el paradigma de la programación orientada a objetos a un nivel óptico para en un futuro desempeñarme de forma óptima en un ambiente laboral que requiera estos conocimientos, como por ejemplo el backend. Además, deseo aprender el lenguaje de programación, debido a que es de mi completo interes.
+¿Por qué es importante tener cuidado con modificar dos archivos al mismo tiempo?
+R/Esto es importante debido a que es necesario mantener actualizado el repositorio antes de trabajar con este, con el fin de evitar cualquier error, generando así una buena práctica
